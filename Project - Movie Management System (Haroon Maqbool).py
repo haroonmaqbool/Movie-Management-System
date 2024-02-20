@@ -663,7 +663,7 @@ class Main(tk.Tk):
         tk.Tk.__init__(self)
         self.geometry('1200x800')
         self.resizable(False, False)
-        self.title("Movie Management System (Haroon Maqbool - Section E - Roll# 271047778)")
+        self.title("Movie Management System (Haroon Maqbool)")
         self.movies = UserManagement.get_movies()
         self.message_var = tk.StringVar()
         self.current_user = None
