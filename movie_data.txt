@@ -1,0 +1,108 @@
+Ishq; 1997; Romantic Comedy; Mansoor Khan, Aamir Khan, Juhi Chawla, Ajay Devgn
+Parasite; 2019; Black Comedy, Thriller; Bong Joon-ho, Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik
+Sholay; 1975; Action, Comedy; Ramesh Sippy, Dharmendra, Amitabh Bachchan, Sanjeev Kumar, Hema Malini, Jaya Bachchan
+3 Idiots; 2009; Comedy, Drama; Rajkumar Hirani, Aamir Khan, R. Madhavan, Sharman Joshi
+Barbie; 2023; Comedy, Fantasy; Greta Gerwig, Margot Robbie, Ryan Gosling, Kate McKinnon
+12 Angry Men; 1957; Drama; Sidney Lumet, Henry Fonda, Lee J. Cobb, E.G. Marshall
+Jinnah; 1998; Historical Drama; Jamil Dehlavi, Christopher Lee, Nihal Siddiqi, Jamil Dehlavi
+Khuda Kay Liye; 2007; Drama, Social; Shoaib Mansoor, Fawad Khan, Humaima Malik, Shafqat Cheema
+Lagaan; 2001; Sports Drama, Musical; Ashutosh Gowariker, Aamir Khan, Gracy Singh, Rachel Shelley
+Zinda Bhaag; 2013; Action, Adventure, Comedy; Meenu Gaur, Farjad Nabi, Naeem Mohaiemen, Amna Ilyas, Salman Shahid
+Andhadhun; 2018; Crime Thriller, Black Comedy; Sriram Raghavan, Ayushmann Khurrana, Tabu, Radhika Apte
+RRR; 2022; Action, Drama, Historical Fiction; S. S. Rajamouli, N. T. Rama Rao Jr., Ram Charan, Alia Bhatt
+Hera Pheri; 2000; Comedy; Priyadarshan, Akshay Kumar, Sunil Shetty, Paresh Rawal
+Vicky Donor; 2012; Comedy, Drama; Shoojit Sircar, Ayushmann Khurrana, Yami Gautam, Annu Kapoor
+Dukhtar; 2014; Drama, Social; Afia Nathaniel, Samiya Mumtaz, Mohib Mirza, Saleha Aref
+Masaan; 2015; Drama, Romance; Neeraj Ghaywan, Vicky Kaushal, Richa Chadda, Shweta Tripathi
+Dangal; 2016; Sports Drama, Biography; Nitesh Tiwari, Aamir Khan, Fatima Sana Shaikh, Sanya Malhotra
+Citizen X; 2019; Documentary, True Crime; Hammad Khan, Omar Shahid Hamid
+Writing with Fire; 2018; Documentary; Rintu Thomas, Sushmit Ghosh
+Period. End of Sentence.; 2018; Documentary; Rayka Zehtabchi
+Crouching Tiger, Hidden Dragon; 2000; Action, Adventure, Wuxia; Ang Lee, Chow Yun-fat, Michelle Yeoh, Zhang Ziyi
+Cinema Paradiso; 1988; Drama, Comedy; Giuseppe Tornatore, Philippe Noiret, Marco Leonardi, Jacques Perrin
+In the Mood for Love; 2000; Romance, Drama; Wong Kar-wai, Tony Leung Chiu-wai, Maggie Cheung
+Amélie; 2001; Comedy, Romance, Fantasy; Jean-Pierre Jeunet, Audrey Tautou, Mathieu Kassovitz, Rufus
+Y Tu Mamá También; 2001; Drama, Road Movie; Alfonso Cuarón, Diego Luna, Gael García Bernal, Maribel Verdú
+Pan's Labyrinth; 2006; Fantasy, Dark Fantasy, War; Guillermo del Toro, Ivana Baquero, Doug Jones
+Free Solo; 2018; Documentary, Sports; Elizabeth Chai Vasarhelyi, Jimmy Chin
+My Octopus Teacher; 2020; Documentary, Nature; Pippa Ehrlich, James Reed
+Icarus; 2017; Documentary, Sports, Crime; Bryan Fogel
+The Godfather; 1972; Crime Drama; Francis Ford Coppola, Marlon Brando, Al Pacino, James Caan, Robert Duvall
+The Shawshank Redemption; 1994; Drama, Crime; Frank Darabont, Tim Robbins, Morgan Freeman
+Spirited Away; 2001; Animation, Fantasy, Adventure; Hayao Miyazaki, Rumi Hiiragi, Miyu Irino, Mari Natsuki
+Casablanca; 1942; Romance, Drama, War; Michael Curtiz, Humphrey Bogart, Ingrid Bergman, Paul Henreid
+Singin' in the Rain; 1952; Musical, Comedy, Romance; Stanley Donen, Gene Kelly, Debbie Reynolds, Donald O'Connor
+Seven Samurai; 1954; Action, Adventure, Drama; Akira Kurosawa, Toshiro Mifune, Takashi Shimura, Yul Brynner
+Vertigo; 1958; Mystery, Psychological Thriller; Alfred Hitchcock, James Stewart, Kim Novak, Barbara Bel Geddes
+The Seventh Seal; 1957; Drama, Fantasy, Historical; Ingmar Bergman, Max von Sydow, Gunnar Björnstrand, Bengt Ekerot
+Elvis; 2022; Biography, Musical; Baz Luhrmann, Austin Butler, Tom Hanks, Olivia DeJonge
+Men; 2022; Horror, Psychological Thriller; Alex Garland, Jessie Buckley, Rory Kinnear, Paapa Essiedu
+Guardians of the Galaxy Vol. 3; 2023; Action, Adventure, Comedy; James Gunn, Chris Pratt, Zoe Saldana, Dave Bautista
+Oppenheimer; 2023; Drama, Historical; Christopher Nolan, Cillian Murphy, Emily Blunt, Robert Downey Jr., Matt Damon
+The Color Purple; 2023; Drama, Musical; Steven Spielberg, Danielle Deadwyler, Cynthia Erivo, Halle Bailey
+Society of the Snow; 2023; Drama, Adventure, Survival; Juan Diego Botto, Diego Lonfardi, Federico Baldissera
+American Symphony; 2023; Comedy, Drama; Brad Silberling, Jack Dylan Grazer, Jeremy Shamos, Uzo Aduba, Rainn Wilson
+Past Lives; 2023; Romance, Drama; Celine Song, Greta Lee, Teodor Juhart, Teo Yoo
+Inglourious Basterds; 2009; Adventure, Drama, War; Quentin Tarantino, Brad Pitt, Christoph Waltz, Michael Fassbender
+The Revenant; 2015; Action, Adventure, Drama; Alejandro González Iñárritu, Leonardo DiCaprio, Tom Hardy
+The Usual Suspects; 1995; Crime, Mystery, Thriller; Bryan Singer, Kevin Spacey, Gabriel Byrne, Chazz Palminteri
+La La Land; 2016; Comedy, Drama, Music; Damien Chazelle, Ryan Gosling, Emma Stone, John Legend
+The Great Gatsby; 2013; Drama, Romance; Baz Luhrmann, Leonardo DiCaprio, Carey Mulligan, Tobey Maguire
+The Princess Bride; 1987; Adventure, Family, Fantasy; Rob Reiner, Cary Elwes, Mandy Patinkin, Robin Wright
+The Terminator; 1984; Action, Sci-Fi; James Cameron, Arnold Schwarzenegger, Linda Hamilton, Michael Biehn
+The Shining; 1980; Drama, Horror; Stanley Kubrick, Jack Nicholson, Shelley Duvall, Danny Lloyd
+A Clockwork Orange; 1971; Crime, Drama, Sci-Fi; Stanley Kubrick, Malcolm McDowell, Patrick Magee, Michael Bates
+Gone with the Wind; 1939; Drama, History, Romance; Victor Fleming, Clark Gable, Vivien Leigh, Thomas Mitchell
+In Bruges; 2008; Comedy, Crime, Drama; Martin McDonagh, Colin Farrell, Brendan Gleeson, Ralph Fiennes
+The Big Lebowski; 1998; Comedy, Crime, Sport; Joel Coen, Ethan Coen, Jeff Bridges, John Goodman, Julianne Moore
+The Silence of the Lambs; 1991; Crime, Drama, Thriller; Jonathan Demme, Jodie Foster, Anthony Hopkins, Scott Glenn
+Whiplash; 2014; Drama, Music; Damien Chazelle, Miles Teller, J.K. Simmons, Paul Reiser
+Sicario; 2015; Action, Crime, Drama; Denis Villeneuve, Emily Blunt, Josh Brolin, Benicio Del Toro
+The Departed; 2006; Crime, Drama, Thriller; Martin Scorsese, Leonardo DiCaprio, Matt Damon, Jack Nicholson
+The Matrix; 1999; Action, Sci-Fi; Lana Wachowski, Lilly Wachowski, Keanu Reeves, Laurence Fishburne
+Pulp Fiction; 1994; Crime, Drama; Quentin Tarantino, John Travolta, Uma Thurman, Samuel L. Jackson
+Forrest Gump; 1994; Drama, Romance; Robert Zemeckis, Tom Hanks, Robin Wright, Gary Sinise
+Fight Club; 1999; Drama; David Fincher, Brad Pitt, Edward Norton, Helena Bonham Carter
+The Dark Knight; 2008; Action, Crime, Drama; Christopher Nolan, Christian Bale, Heath Ledger, Aaron Eckhart
+Interstellar; 2014; Adventure, Drama, Sci-Fi; Christopher Nolan, Matthew McConaughey, Anne Hathaway
+The Grand Budapest Hotel; 2014; Adventure, Comedy, Crime; Wes Anderson, Ralph Fiennes, F. Murray Abraham
+Blade Runner 2049; 2017; Action, Drama, Sci-Fi; Denis Villeneuve, Ryan Gosling, Harrison Ford, Ana de Armas
+The Social Network; 2010; Biography, Drama; David Fincher, Jesse Eisenberg, Andrew Garfield, Justin Timberlake
+A Beautiful Mind; 2001; Biography, Drama; Ron Howard, Russell Crowe, Ed Harris, Jennifer Connelly
+The Silence of the Lambs; 1991; Crime, Drama, Thriller; Jonathan Demme, Jodie Foster, Anthony Hopkins, Scott Glenn
+The Green Mile; 1999; Crime, Drama, Fantasy; Frank Darabont, Tom Hanks, Michael Clarke Duncan, David Morse
+The Prestige; 2006; Drama, Mystery, Sci-Fi; Christopher Nolan, Christian Bale, Hugh Jackman, Scarlett Johansson
+The Lion King; 1994; Animation, Adventure, Drama; Roger Allers, Rob Minkoff, Matthew Broderick, Jeremy Irons
+The Truman Show; 1998; Comedy, Drama; Peter Weir, Jim Carrey, Ed Harris, Laura Linney
+Dune; 2021; Adventure, Drama, Sci-Fi; Denis Villeneuve, Timothée Chalamet, Zendaya, Oscar Isaac
+No Time to Die; 2021; Action, Adventure, Thriller; Cary Joji Fukunaga, Daniel Craig, Rami Malek
+Spider-Man No Way Home; 2021; Action, Adventure, Fantasy; Jon Watts, Tom Holland, Zendaya, Benedict Cumberbatch
+Eternals; 2021; Action, Adventure, Drama; Chloé Zhao, Gemma Chan, Richard Madden, Angelina Jolie
+Shang-Chi and the Legend of the Ten Rings; 2021; Action, Adventure, Fantasy; Destin Daniel Cretton, Simu Liu
+A Quiet Place Part II; 2021; Drama, Horror, Sci-Fi; John Krasinski, Emily Blunt, Millicent Simmonds, Cillian Murphy
+Cruella; 2021; Comedy, Crime; Craig Gillespie, Emma Stone, Emma Thompson, Joel Fry
+Jungle Cruise; 2021; Action, Adventure, Comedy; Jaume Collet-Serra, Dwayne Johnson, Emily Blunt, Edgar Ramírez
+The French Dispatch; 2021; Comedy, Drama, Romance; Wes Anderson, Benicio del Toro, Adrien Brody, Tilda Swinton
+The Suicide Squad; 2021; Action, Adventure, Comedy; James Gunn, Margot Robbie, Idris Elba, John Cena
+The Mitchells vs. the Machines; 2021; Animation, Adventure, Comedy; Michael Rianda, Abbi Jacobson, Danny McBride
+A Quiet Place Part II; 2021; Drama, Horror, Sci-Fi; John Krasinski, Emily Blunt, Millicent Simmonds, Cillian Murphy
+Black Widow; 2021; Action, Adventure, Sci-Fi; Cate Shortland, Scarlett Johansson, Florence Pugh, David Harbour
+The Many Saints of Newark; 2021; Crime, Drama; Alan Taylor, Alessandro Nivola, Leslie Odom Jr., Jon Bernthal
+Venom: Let There Be Carnage; 2021; Action, Adventure, Sci-Fi; Andy Serkis, Tom Hardy, Woody Harrelson
+The Matrix Resurrections; 2021; Action, Sci-Fi; Lana Wachowski, Keanu Reeves, Carrie-Anne Moss, Yahya Abdul-Mateen II
+The Last Duel; 2021; Drama, History, Thriller; Ridley Scott, Matt Damon, Adam Driver, Jodie Comer
+House of Gucci; 2021; Biography, Crime, Drama; Ridley Scott, Lady Gaga, Adam Driver, Jared Leto
+West Side Story; 2021; Crime, Drama, Musical; Steven Spielberg, Ansel Elgort, Rachel Zegler, Ariana DeBose
+King Richard; 2021; Biography, Drama, Sport; Reinaldo Marcus Green, Will Smith, Aunjanue Ellis, Jon Bernthal
+The Power of the Dog; 2021; Drama, Romance, Western; Jane Campion, Benedict Cumberbatch, Kirsten Dunst, Jesse Plemons
+The Green Knight; 2021; Adventure, Drama, Fantasy; David Lowery, Dev Patel, Alicia Vikander, Joel Edgerton
+Licorice Pizza; 2021; Comedy, Drama; Paul Thomas Anderson, Alana Haim, Cooper Hoffman, Sean Penn
+Don't Look Up; 2021; Comedy, Drama, Sci-Fi; Adam McKay, Leonardo DiCaprio, Jennifer Lawrence, Meryl Streep
+Red Notice; 2021; Action, Adventure, Comedy; Rawson Marshall Thurber, Dwayne Johnson, Gal Gadot, Ryan Reynolds
+Belfast; 2021; Drama, Romance; Kenneth Branagh, Caitriona Balfe, Judi Dench, Jamie Dornan
+The Lost Daughter; 2021; Drama, Thriller; Maggie Gyllenhaal, Olivia Colman, Jessie Buckley, Dakota Johnson
+CODA; 2021; Drama, Music; Sian Heder, Emilia Jones, Marlee Matlin, Eugenio Derbez
+Spencer; 2021; Biography, Drama, Romance; Pablo Larraín, Kristen Stewart, Timothy Spall, Jack Nielen
+Drive My Car; 2021; Drama; Ryusuke Hamaguchi, Hidetoshi Nishijima, Tôko Miura, Reika Kirishima
+Parallel Mothers; 2021; Drama; Pedro Almodóvar, Penélope Cruz, Milena Smit, Israel Elejaldefd
+Dune; 2021; Sci-fi, Adventure, Action; Rebecca Ferguson, Oscar Isaac, Josh Brolin,Stephen McKinley Henderson, Zendaya
