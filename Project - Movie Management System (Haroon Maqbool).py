@@ -273,8 +273,8 @@ class RegisterWindow(tk.Toplevel):
         self.password_entry = tk.Entry(self.password_frame, show="*", font=("Arial", 12), width=36)
         self.password_entry.pack(side=tk.LEFT)
 
-        self.show_image = ImageTk.PhotoImage(file='images\\show.png')
-        self.hide_image = ImageTk.PhotoImage(file='images\\hide.png')
+        self.show_image = ImageTk.PhotoImage(file='show.png')
+        self.hide_image = ImageTk.PhotoImage(file='hide.png')
 
         self.show_hide_button = tk.Button(self.password_frame, image=self.show_image,
                                           command=self.password_eye,
@@ -676,7 +676,7 @@ class Main(tk.Tk):
         self.logout_button = None
         self.welcome_displayed = False
 
-        background_frame = Image.open('images\\background.png')
+        background_frame = Image.open('background.png')
         background_frame = background_frame.resize((1200, 800))
         picture = ImageTk.PhotoImage(background_frame)
         self.background = tk.Label(self, image=picture)
@@ -688,7 +688,7 @@ class Main(tk.Tk):
         self.login_frame.place(x=200, y=100)
 
         # Logo Image
-        logo_image = Image.open('images\\logo.png')
+        logo_image = Image.open('logo.png')
         logo_image = logo_image.resize((105, 105))
         logo = ImageTk.PhotoImage(logo_image)
         self.logo_label = tk.Label(self.login_frame, image=logo, bg='#040405')
@@ -717,7 +717,7 @@ class Main(tk.Tk):
         self.username_line = tk.Canvas(self.login_frame, width=300, height=2.0, bg="#bdb9b1", highlightthickness=0)
         self.username_line.place(x=262, y=266)
 
-        self.username_icon = Image.open('images\\username_icon.png')
+        self.username_icon = Image.open('username_icon.png')
         picture = ImageTk.PhotoImage(self.username_icon)
         self.username_icon_label = tk.Label(self.login_frame, image=picture, bg='#040405')
         self.username_icon_label.image = picture
@@ -737,14 +737,14 @@ class Main(tk.Tk):
         self.password_line.place(x=262, y=366)
 
         # Password icon
-        self.password_icon = Image.open('images\\password_icon.png')
+        self.password_icon = Image.open('password_icon.png')
         picture = ImageTk.PhotoImage(self.password_icon)
         self.password_icon_label = tk.Label(self.login_frame, image=picture, bg='#040405')
         self.password_icon_label.image = picture
         self.password_icon_label.place(x=260, y=340)
 
         # Login button
-        self.login_button = Image.open('images\\login.png')
+        self.login_button = Image.open('login.png')
         picture = ImageTk.PhotoImage(self.login_button)
         self.login_button_label = tk.Label(self.login_frame, image=picture, bg='#040405')
         self.login_button_label.image = picture
@@ -757,8 +757,8 @@ class Main(tk.Tk):
         self.login_button.place(x=20, y=10)
 
         # Show/Hide Password
-        self.show_image = ImageTk.PhotoImage(file='images\\show.png')
-        self.hide_image = ImageTk.PhotoImage(file='images\\hide.png')
+        self.show_image = ImageTk.PhotoImage(file='show.png')
+        self.hide_image = ImageTk.PhotoImage(file='hide.png')
 
         self.show_button = tk.Button(self.login_frame, image=self.show_image, command=self.show,
                                      activebackground="white", borderwidth=0, background="white", cursor="hand2")
