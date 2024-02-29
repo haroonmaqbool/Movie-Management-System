@@ -56,6 +56,7 @@ To run the Movie Management System:
 
 ## Screenshots
 ### Main Menu
+![image](https://github.com/haroonmaqbool/Movie-Management-System/assets/160936682/2dfbd7fd-6225-4acb-9a18-607f831e607b)
 
 ## About the Author
 
