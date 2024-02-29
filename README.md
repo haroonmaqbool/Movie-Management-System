@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Movie Management System! This system is designed to assist users in efficiently managing their movie collections. Whether you're a dedicated movie buff or a seasoned professional in the film industry, this system aims to simplify the process of organizing, categorizing, and accessing your favourite movies.
+Welcome to the Movie Management System! This system is designed to assist users in efficiently managing their movie collections. Whether you're a dedicated movie buff or a seasoned professional in the film industry, this system aims to simplify the process of organizing, categorizing, and accessing your beloved movies.
 
 ## Features
 
@@ -17,6 +17,7 @@ Welcome to the Movie Management System! This system is designed to assist users 
   - Effortlessly filter and sort search results for enhanced convenience.
 
 - **Add/Edit/Delete Movies**: 
+  - Only admin users can add, delete, and edit movie database entries.
   - Easily add new movies to the database.
   - Edit and update existing movie details as needed.
   - Delete movies from the database with a simple click.
@@ -25,27 +26,24 @@ Welcome to the Movie Management System! This system is designed to assist users 
   - Share your thoughts by rating movies and writing or viewing reviews.
 
 - **User Recommendations**: 
-  - Benefit from a personalized recommendation system based on your preferences and ratings.
+  - Benefit from a personalized recommendation system based on your preferences and ratings, utilizing collaborative filtering algorithms.
 
-- **User Roles**: 
-  - Define user roles with distinct privileges, including admin and regular user.
-  - Admins have the authority to manage movies and user accounts.
-
-- **Graphical User Interface (GUI)**: 
-  - Enjoy a visually appealing and user-friendly interface powered by tkinter.
-
-- **Data Storage**: 
-  - Store data in a text file format, ensuring easy access and portability.
-  - Remember to keep all files in the same folder before running the program.
-
-- **Data Loading**: 
-  - Data loads swiftly on application start, ensuring a seamless user experience.
+- **User Watchlist**: 
+  - Create and manage your watchlist to keep track of movies you plan to watch.
 
 - **Password Recovery**: 
   - Never worry about forgetting your credentials with the password recovery feature in place.
 
-- **User Watchlist**: 
-  - Create and manage your watchlist to keep track of movies you plan to watch.
+- **User Roles**: 
+  - Define user roles with distinct privileges, including admin and regular user.
+  - Admins have the authority to manage movies, user accounts, and access additional system features.
+
+- **Graphical User Interface (GUI)**: 
+  - Enjoy a visually appealing and user-friendly interface powered by tkinter, a Python library for creating graphical user interfaces. The GUI is designed to be responsive and intuitive, ensuring an enjoyable user experience.
+
+- **Data Storage**: 
+  - Store data in a text file format, ensuring easy access and portability.
+  - Data loads automatically when the application starts, ensuring a seamless user experience.
 
 ## Installation
 
