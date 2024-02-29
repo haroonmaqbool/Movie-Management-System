@@ -40,14 +40,6 @@ We welcome contributions to enhance the functionality and usability of the Movie
 4. Test your changes thoroughly.
 5. Submit a pull request detailing the changes you've made.
 
-## Credits:
-
-The Movie Management System is developed and maintained by [Your Name/Organization]. Special thanks to the open-source community for their contributions and support.
-
-## License:
-
-This project is licensed under the [License Name/URL]. See the LICENSE file for details.
-
 ## Contact:
 
 If you have any questions, suggestions, or feedback, please feel free to contact us at [Your Email Address].
