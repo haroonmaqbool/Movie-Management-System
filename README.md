@@ -54,8 +54,11 @@ To run the Movie Management System:
 3. Ensure all files are stored in the same folder.
 4. Run the application: `Project - Movie Management System (Haroon Maqbool).py`.
 
+## Screenshots
+### Main Menu
+
 ## About the Author
 
-This Movie Management System was meticulously crafted by Haroon Maqbool. For any suggestions, issues, or contributions, please feel free to contact Haroon Maqbool via email at [haroon.1maqbool@gmail.com](mailto:haroon.1maqbool@gmail.com).
+This Movie Management System was made by Haroon Maqbool. For any suggestions, issues, or contributions, please feel free to contact Haroon Maqbool via email at [haroon.1maqbool@gmail.com](mailto:haroon.1maqbool@gmail.com).
 
 #### Thank you!
