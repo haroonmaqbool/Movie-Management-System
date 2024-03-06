@@ -995,3 +995,5 @@ class Main(tk.Tk):
 
 MovieManagementSystem = Main()
 MovieManagementSystem.mainloop()
+
+
